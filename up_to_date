@@ -1,0 +1,5 @@
+git checkout 
+git merge master
+git add .
+git commit -m "msg"
+git push origin
